@@ -1,0 +1,133 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Мастацкая Спадчына Радзімы</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<ul>
+							<a href="САЙТ.html" class="logo"><strong>Абеліск</strong> <span>памяці</span></a>
+							<a href="landing.html" class="logo"><strong>алея</strong> <span>славы</span></a>
+							<a href="test.html" class="logo"><strong>прайсці</strong>тэст</a>
+							<a href="svaz.html" class="logo"><strong>звяжыцеся</strong> з намі</a>
+						</ul>
+					</header>					
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<header class="major">
+								<h1>Талент нашых землякоў -</br>
+									сапраўдная спадчына.</h1>
+							</header>
+							<div class="content">
+								<p>Адкрыйце для сябе культуру Беларусі з новага боку.<br />
+								    </p>
+								<ul class="actions">
+									<li><a href="#one" class="button next scrolly"></a></li>
+								</ul>
+							</div>
+						</div>
+					</section>
+				<!-- Space -->
+					
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one" class="tiles">
+								<article>
+									<span class="image">
+										<img src="images/надгородом.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="shagal.html" class="link">Марк Шагал</a></h3>
+										<p>Знакаміты мастак, ураджэнец Віцебшчыны</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/силивончик1.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="silivon.html" class="link">Ганна Сілівончык</a></h3>
+										<p>Мастачка-казачніца, чые незвычайныя работы параўноўваюць з карцінамі Шагала</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/задорин7.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="generic.html" class="link">Андрэй Задорын</a></h3>
+										<p>Таленавіты аўтар, які атрымаў сусветнае прызнанне за свае меланхалічныя карціны.</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/кішчанк1.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="kishenko.html" class="link">Аляксандр Кішчанка</a></h3>
+										<p>Шматгранны і ўнікальны мастак, які падарыў свету жывапісныя палотны, габелены i манументальныя мазаічныя кампазіцыі</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/ващ4.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="vashenko.html" class="link">Гаўрыла Вашчанка</a></h3>
+										<p>Народны мастак БССР, «Чалавек года» 1992.</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/жолтовскийчертеж.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="zhelt.html" class="link">Іван Жалтоўскі</a></h3>
+										<p>Таленавіты архітэктар, праца якога дагэтуль упрыгожвае беларускія вуліцы.</p>
+									</header>
+								</article>
+							</section>
+					</div>
+
+		
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="copyright">
+								<li>&copy; Мастацкая спадчына, 2024</li><li>Распрацоўка і дызайн: <a href="svaz.html">Гарбар Аляксандра Яўгеньеўна</a></li></br>
+							</ul>
+							<ul class="copyright">
+								<li><a href="http://vaschenko.by/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F/">Крыніцы інфармацыі: http://vaschenko.by</a></li>
+								<li><a href="https://hvali.by/">http://hvali.by</a></li>
+								<li><a href="https://kulturologia.ru/blogs/180121/48767/">https://kulturologia.ru/blogs/</a></li>
+								<li><a href="https://fb.ru/article/338225/arhitektor-joltovskiy-ivan-vladislavovich-biografiya-rabotyi">https://fb.ru/article/338225/</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
